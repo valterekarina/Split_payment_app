@@ -1,0 +1,36 @@
+﻿.homeDiv {
+    margin: 0 5% 0 5%;
+}
+
+.loadInvoiceButton {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.date-col {
+    width: 15%;
+}
+
+.sum-col {
+    width: 35%;
+}
+
+.status-col {
+    width: 10%;
+}
+
+.action-col {
+    width: 40%;
+}
+
+.invoice-table {
+    width: 95%;
+    margin: 1% 2% 1% 2%;
+}
+
+.invoice-table-owner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

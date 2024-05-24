@@ -1,0 +1,28 @@
+﻿.invoicesTable {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.dateCol {
+    width: 10%;
+}
+
+.sumCol {
+    width: 30%;
+}
+
+.paymentCol {
+    width: 30%;
+}
+
+.statusCol {
+    width: 10%;
+}
+
+.invActionCol {
+    width: 20%;
+}
+
+button {
+    margin: 3px;
+}

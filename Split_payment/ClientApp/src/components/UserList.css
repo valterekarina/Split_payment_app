@@ -1,0 +1,22 @@
+﻿.tableDiv {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.userTable {
+    width: 70%;
+}
+
+.nameCol {
+    width: 40%;
+}
+
+.approveCol {
+    width: 20%;
+}
+
+.actionCol {
+    width: 40%;
+}
